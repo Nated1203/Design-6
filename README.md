@@ -1,2 +1,3 @@
 # Design-6
-Repository for Engineering Design 6
+## Repository for _Engineering Design 6_
+
