@@ -16,4 +16,4 @@
 6. Make informed ethical desicions
 7. Improve written and oral communication
 
-![Stevens Logo](docs/assets/https://github.com/Nated1203/Design-6/commit/c8b4a69d088dc680531f2ecd226d92bb714c2417#r137647200 "Stevens Logo")
+![Stevens Logo](desgign-6/docs/assets/https://github.com/Nated1203/Design-6/commit/c8b4a69d088dc680531f2ecd226d92bb714c2417#r137647200 "Stevens Logo")
