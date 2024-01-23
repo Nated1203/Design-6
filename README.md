@@ -16,4 +16,4 @@
 6. Make informed ethical desicions
 7. Improve written and oral communication
 
-![Stevens Logo](desgign-6/StevensLogo.jpg "Stevens Logo")
+![Stevens Logo](Design-6/StevensLogo.jpg "Stevens Logo")
