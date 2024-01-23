@@ -2,7 +2,7 @@
 ## Repository for _Engineering Design-6_
 ###  `I pledge my honor that I have abided by the Stevens Honor System` <sub>Nate Dawson<sub>
 
-** Objectives of the course: **
+**Objectives of the course:**
 1. Formulate Problems
 2. Work in teams
 3. Develop skills such as
