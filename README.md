@@ -20,17 +20,17 @@
 
 ---
 
-**Labs**
+**Labs** 💻
 - *This course will consist of several labs which will be documented in this repository*
 - [Lab Documentation](https://github.com/Nated1203/Design-6/blob/main/Lab%20Documentation)
 
-**Project**
+**Project** 🤖
 - *This course wil constist of a team project which will be linked to this repository*
 - [Team Project Site](https://sites.google.com/stevens.edu/engineeringdesign6teamproject/home)
 
 ---
 
-**Personal Goals**
+**Personal Goals** 😎
 - Apply technical skills developed in previous engineering courses
 - Develop documentation skills
 - Become more comfortable with the use of a Rasberry Pi
