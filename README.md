@@ -28,5 +28,13 @@
 - *This course wil constist of a team project which will be linked to this repository*
 - [Team Project Site](https://sites.google.com/stevens.edu/engineeringdesign6teamproject/home)
 
+---
+
+**Personal Goals**
+- Apply technical skills developed in previous engineering courses
+- Develop documentation skills
+- Become more comfortable with the use of a Rasberry Pi
+- **Learn Every Day**
+
 
   
