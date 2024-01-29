@@ -22,4 +22,8 @@
 
 **Labs**
 - *This course will consist of several labs which will be documented in this repository*
-- 
+
+**Project**
+- *This course wil constist of a team project which will be linked to this repository*
+
+  
