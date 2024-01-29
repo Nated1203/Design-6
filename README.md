@@ -29,6 +29,11 @@
 - [Team Project Site](https://sites.google.com/stevens.edu/engineeringdesign6teamproject/home)
 
 ---
+**About Me:** *Nate Dawson* 😄
+- 3rd year Electrical Engineering Major
+- Hobbies: *Running, Video Games, Robotics*
+- From *Pemberton, NJ*
+
 
 **Personal Goals** 😎
 - Apply technical skills developed in previous engineering courses
