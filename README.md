@@ -4,7 +4,7 @@
 
 ---
 
-**Objectives of the course:**
+**Objectives of the course:** 👨‍💻
 1. Formulate Problems
 2. Work in teams
 3. Develop skills such as
@@ -17,3 +17,9 @@
 7. Improve written and oral communication
 
 ![Stevens Logo](StevensLogo.jpg "Stevens Logo")
+
+---
+
+**Labs**
+- *This course will consist of several labs which will be documented in this repository*
+- 
