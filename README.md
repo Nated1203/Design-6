@@ -22,6 +22,7 @@
 
 **Labs**
 - *This course will consist of several labs which will be documented in this repository*
+- [Lab Documentation](https://github.com/Nated1203/Design-6/blob/main/Lab%20Documentation)
 
 **Project**
 - *This course wil constist of a team project which will be linked to this repository*
