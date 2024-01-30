@@ -41,5 +41,5 @@
 - Become more comfortable with the use of a Rasberry Pi
 - **Learn Every Day**
 
-
+`Art without engineering is dreaming, engineering without art is calculating` <sub>Steven Roberts<sub>
   
