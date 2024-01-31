@@ -1,6 +1,6 @@
 # **Design-6**
 ## Repository for _Engineering Design-6_
-###  `I pledge my honor that I have abided by the Stevens Honor System` <sub>Nate Dawson<sub>
+  > I pledge my honor that I have abided by the Stevens Honor System  <sub>Nate Dawson<sub>
 
 ---
 
@@ -31,9 +31,11 @@
 ---
 **About Me:** *Nate Dawson* 😄
 - 3rd year Electrical Engineering Major
-- Hobbies: *Running, Video Games, Robotics*
+- Hobbies: *Running, Video Games, Robotics, Coding*
 - From *Pemberton, NJ*
 
+**My first ever code** 🧠
+`println("Hello World");`
 
 **Personal Goals** 😎
 - Apply technical skills developed in previous engineering courses
@@ -41,5 +43,6 @@
 - Become more comfortable with the use of a Rasberry Pi
 - **Learn Every Day**
 
-`Art without engineering is dreaming, engineering without art is calculating` <sub>Steven Roberts<sub>
-  
+> Art without engineering is dreaming, engineering without art is calculating <sub>Steven Roberts<sub>
+
+
