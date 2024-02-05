@@ -26,7 +26,7 @@
 
 **Project** 🤖
 - *This course wil constist of a team project which will be linked to this repository*
-- [Team Project Site](https://sites.google.com/stevens.edu/engineeringdesign6teamproject/home)
+- [Team Project Site](https://sites.google.com/stevens.edu/design-6-group-17/home)
 
 ---
 **About Me:** *Nate Dawson* 😄
